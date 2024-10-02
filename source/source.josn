@@ -2,12 +2,12 @@
 {
     "urls": [
         {
-            "url": "https://ghproxy.net/raw.githubusercontent.com/zzz0121/TV_FT/refs/heads/master/output/result.txt",
-            "name": "🚀自用直播源"
-        },
-        {
             "url": "http://饭太硬.com/tv",
             "name": "🚀饭太硬推荐"
+        },
+        {
+            "url": "https://ghproxy.net/raw.githubusercontent.com/zzz0121/TV_FT/refs/heads/master/output/result.txt",
+            "name": "🚀自用直播源"
         },
         {
             "url": "http://肥猫.live",
