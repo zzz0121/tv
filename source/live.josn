@@ -1,0 +1,22 @@
+{
+    "lives": [
+            {
+                "name": "自用v6源",
+                "type": 0,
+                "url": "https://ghproxy.net/raw.githubusercontent.com/zzz0121/TV_FT/master/user_result.txt",
+                "playerType": 1,
+            },
+            {
+                "name": "备用1",
+                "type": 0,
+                "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+                "playerType": 1
+            },
+            {
+                "name": "备用2",
+                "type": 0,
+                "url": "https://tv.iill.top/m3u/Gather",
+                "playerType": 1
+            },
+        ],
+}
