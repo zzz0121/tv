@@ -3,7 +3,7 @@
             {
                 "name": "自用v6源",
                 "type": 0,
-                "url": "https://ghproxy.net/raw.githubusercontent.com/zzz0121/TV_FT/refs/heads/master/output/result.m3u",
+                "url": "https://ghproxy.net/raw.githubusercontent.com/zzz0121/TV_FT/refs/heads/master/output/result.txt",
                 "playerType": 1,
             },
             {
