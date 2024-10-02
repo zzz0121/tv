@@ -2,7 +2,7 @@
 {
     "urls": [
         {
-            "url": "https://ghproxy.net/raw.githubusercontent.com/zzz0121/tv/refs/heads/main/source/live.josn",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/zzz0121/TV_FT/refs/heads/master/output/result.txt",
             "name": "自用直播源"
         },
         {
