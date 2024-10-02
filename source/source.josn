@@ -1,9 +1,9 @@
-# TVbox多自用仓源，🐊🐊接口更新于2024/9/29🐊🐊
+# TVbox多自用仓源，🐊🐊接口更新于2024/10/2🐊🐊
 {
     "urls": [
         {
             "url": "https://ghproxy.net/raw.githubusercontent.com/zzz0121/TV_FT/refs/heads/master/output/result.txt",
-            "name": "自用直播源"
+            "name": "🚀自用直播源"
         },
         {
             "url": "http://饭太硬.com/tv",
@@ -12,10 +12,6 @@
         {
             "url": "http://肥猫.live",
             "name": "🚀肥猫"
-        },
-        {
-            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "🚀云星日记"
         },
         {
             "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
