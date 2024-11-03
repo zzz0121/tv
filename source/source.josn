@@ -3,39 +3,43 @@
     "urls": [
         {
             "url": "http://饭太硬.com/tv",
-            "name": "🚀饭太硬推荐"
-        },
-        {
-            "url": "https://ghproxy.net/raw.githubusercontent.com/zzz0121/TV_FT/refs/heads/master/output/result.txt",
-            "name": "🚀自用直播源"
+            "name": "🚀饭太硬源"
         },
         {
             "url": "http://肥猫.live",
-            "name": "🚀肥猫"
+            "name": "🚀肥猫源"
+        },
+        {
+            "url": "https://ghproxy.net/raw.githubusercontent.com/zzz0121/TV_FT/refs/heads/master/output/result.txt",
+            "name": "🚀自用直播地址,不要选"
         },
         {
             "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-            "name": "🚀酷安潇洒哥"
+            "name": "🚀酷安潇洒哥源"
         },
        {
             "url": "http://tv.nxog.top/m",
-            "name": "🚀欧歌"
+            "name": "🚀欧歌源"
+        },
+        {
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木多线路.json",
+            "name": "🚀一木源"
         },
         {
             "url": "http://ok321.top/tv",
-            "name": "🚀OK"
+            "name": "🚀OK源"
         },
         {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "🚀巧计"
+            "name": "🚀巧计源"
         },
         {
             "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
-            "name": "🚀PG"
+            "name": "🚀PG源"
         },
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-            "name": "🚀香雅情"
+            "name": "🚀香雅情源"
         }
     ]
 }
