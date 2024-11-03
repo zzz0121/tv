@@ -1,12 +1,12 @@
 # TVbox多自用仓源，🐊🐊接口更新于2024/10/2🐊🐊
 {
     "urls": [
-{"url": "http://www.饭太硬.com/tv",                "name": "🌟饭太硬"},
-{"url": "http://肥猫.com/",                        "name": "🌵肥猫线路"},
-{"url": "https://ghproxy.net/raw.githubusercontent.com/zzz0121/TV_FT/refs/heads/master/output/result.txt",	"name": "🚀自用直播地址,不要选"},
-{"url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",		"name": "🚀酷安潇洒哥源"},
-{"url": "http://tv.nxog.top/m",                    "name": "🚀欧歌源"},
-{"url": "http://ok321.top/tv",																				"name": "🚀OK源"},
+{"url": "http://www.饭太硬.com/tv",                                                                            "name": "🌟饭太硬"},
+{"url": "http://肥猫.com/",                                                                                    "name": "🌵肥猫线路"},
+{"url": "https://ghproxy.net/raw.githubusercontent.com/zzz0121/TV_FT/refs/heads/master/output/result.txt",	    "name": "🚀自用直播地址,不要选"},
+{"url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",		    "name": "🚀酷安潇洒哥源"},
+{"url": "http://tv.nxog.top/m",                                                                                "name": "🚀欧歌源"},
+{"url": "http://ok321.top/tv",                                                                                  "name": "🚀OK源"},
 {"url": "http://cdn.qiaoji8.com/tvbox.json",																"name": "🚀巧计源"},
 {"url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",										"name": "🚀PG源"},
 {"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",		"name": "🌵香雅情线路"},
