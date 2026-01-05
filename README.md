@@ -2,9 +2,9 @@
 
 ```source
 点播：
-  https://raw.githubusercontent.com/zzz0121/tv/refs/heads/main/tvlib.json
+  https://raw.githubusercontent.com/zzz0121/tv/refs/heads/main/tvlib
   https://ghproxy.net/raw.githubusercontent.com/zzz0121/tv/main/tvlib
-  https://cdn.jsdelivr.net/gh/zzz0121/tv/main/tvlib
+  https://cdn.jsdelivr.net/gh/zzz0121/tv@main/tvlib
 
   https://raw.githubusercontent.com/zzz0121/tv/main/source/source.josn
   https://ghproxy.net/raw.githubusercontent.com/zzz0121/tv/main/source/source.josn
