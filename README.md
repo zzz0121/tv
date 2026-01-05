@@ -12,8 +12,8 @@
   https://cdn.jsdelivr.net/gh/zzz0121/tv@main/source/source.json
   
 直播：
-  https://ghproxy.net/raw.githubusercontent.com/zzz0121/TV_FT/refs/heads/master/output/ipv6/result.txt
-  https://ghproxy.net/raw.githubusercontent.com/zzz0121/TV_FT/refs/heads/master/output/ipv4/result.txt
+  https://ghproxy.net/raw.githubusercontent.com/zzz0121/TV_FT/master/output/ipv6/result.txt
+  https://ghproxy.net/raw.githubusercontent.com/zzz0121/TV_FT/master/output/ipv4/result.txt
 ```
 
 
