@@ -6,9 +6,9 @@
   https://ghproxy.net/raw.githubusercontent.com/zzz0121/tv/main/tvlib
   https://cdn.jsdelivr.net/gh/zzz0121/tv@main/tvlib
 
-  https://raw.githubusercontent.com/zzz0121/tv/main/source/source.josn
-  https://ghproxy.net/raw.githubusercontent.com/zzz0121/tv/main/source/source.josn
-  https://cdn.jsdelivr.net/gh/zzz0121/tv/source/source.josn
+  https://raw.githubusercontent.com/zzz0121/tv/main/source/source.json
+  https://ghproxy.net/raw.githubusercontent.com/zzz0121/tv/main/source/source.json
+  https://cdn.jsdelivr.net/gh/zzz0121/tv/source/source.json
   https://cdn.jsdelivr.net/gh/zzz0121/tv@main/source/source.json
   
 直播：
