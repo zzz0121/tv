@@ -20,8 +20,8 @@
 {"name":"🚀潇洒","url":"https://qist.wyfc.qzz.io/xiaosa/api.json"},
 {"name":"🚀香雅情","url":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"},
 {"name": "🍯少儿频道","url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"},
-{"name":"🚀LunaTV精简","url":"https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/jin18.txt"},
-{"name":"🚀LunaTV精简+","url":"https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/jingjian.txt"},
-{"name":"🚀LunaTV-Full","url":"https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/LunaTV-config.txt"}
+{"name":"🚀LunaTV精简","url":"https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/jin18.json"},
+{"name":"🚀LunaTV精简+","url":"https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/jingjian.json"},
+{"name":"🚀LunaTV-Full","url":"https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/LunaTV-config.json"}
     ]
 }
