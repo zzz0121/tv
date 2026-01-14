@@ -14,6 +14,9 @@
 直播：
   https://ghproxy.net/raw.githubusercontent.com/zzz0121/TV_FT/master/output/ipv6/result.txt
   https://ghproxy.net/raw.githubusercontent.com/zzz0121/TV_FT/master/output/ipv4/result.txt
+
+  https://develop202.github.io/migu_video/interface.txt
+  https://gh-proxy.com/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 ```
 
 
